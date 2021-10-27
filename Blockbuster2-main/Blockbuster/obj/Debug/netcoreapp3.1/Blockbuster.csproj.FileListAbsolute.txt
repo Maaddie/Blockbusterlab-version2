@@ -1,0 +1,28 @@
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.exe
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.deps.json
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.json
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\ZParr\source\repos\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.genruntimeconfig.cache
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.exe
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.deps.json
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.json
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.dev.json
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfo.cs
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\mvarasteanu\OneDrive - KNEX\Downloads\Blockbuster2-main\Blockbuster2-main\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.genruntimeconfig.cache
